@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-servicing-order
+description: "BIAN Service Domain: Servicing Order (Process pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Servicing Order"
+  bian/control-record: "Servicing Order Procedure"
